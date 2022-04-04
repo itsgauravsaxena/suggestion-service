@@ -1,0 +1,5 @@
+demo:
+  book-service-uri: http://localhost:8085
+
+server:
+  port: 8181
